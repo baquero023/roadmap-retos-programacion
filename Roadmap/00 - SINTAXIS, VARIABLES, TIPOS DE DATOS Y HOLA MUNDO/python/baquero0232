@@ -1,1 +1,21 @@
+# https://python.org
 
+# Comentario en una linea
+
+"""
+Esto es un comenttario
+en varias 
+lineas
+"""
+
+'''
+Esto tamnbien es un
+comentario en 
+varias lineas
+'''
+
+my_variable = "Mi variable"
+my_variable = "Nuevo valor de mi variable"
+
+MY_CONSTANT = "Mi constante" # por convencion
+MY_CONSTANT = "AJDUNAYTDBKA"
